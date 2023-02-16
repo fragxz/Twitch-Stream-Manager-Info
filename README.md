@@ -8,4 +8,4 @@ A Laravel based webapp to improve and automate your Twitch Stream experience.
 * VIP Manager: automatically delete VIPs after a specified amount of days.
 * Get a list and count of all your subscribers
 
-Interested? => https://www.fragxz.de
+Interested? => https://streami.fragxz.de/
