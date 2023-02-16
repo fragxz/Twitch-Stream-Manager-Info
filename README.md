@@ -10,5 +10,7 @@ Uses the Twitch Helix API and OAuth 2.0 Authorization.
 * The BEST Followergoal ever: Always up-to-date. No need to sync Followernumbers ever again. Easily customizable and even supports animations!
 * VIP Manager: automatically delete VIPs after a specified amount of days.
 * Get a list and count of all your subscribers
+* more coming soon..
 
-Interested? => https://streami.fragxz.de/
+## Learn more
+Check it out: https://streami.fragxz.de/
