@@ -1,5 +1,5 @@
 # Twitch Stream Manager
-A Laravel based webapp to improve and automate your Twitch Stream experience.
+A Laravel based webapp to improve and automate your Twitch Stream workflow and experience.
 
 Uses the Twitch Helix API and OAuth 2.0 Authorization.
 
